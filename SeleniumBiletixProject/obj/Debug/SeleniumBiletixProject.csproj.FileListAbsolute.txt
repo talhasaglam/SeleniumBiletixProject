@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\SeleniumBiletixProject.exe.config
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\SeleniumBiletixProject.exe
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\SeleniumBiletixProject.pdb
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\WebDriver.dll
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\WebDriver.xml
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\obj\Debug\SeleniumBiletixProject.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\obj\Debug\SeleniumBiletixProject.csproj.CopyComplete
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\obj\Debug\SeleniumBiletixProject.exe
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\obj\Debug\SeleniumBiletixProject.pdb
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\WebDriver.Support.dll
+C:\Users\ACER\source\repos\SeleniumBiletixProject\SeleniumBiletixProject\bin\Debug\WebDriver.Support.xml
